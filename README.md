@@ -18,8 +18,6 @@ Customer ratings
 
 🛠️ Tools Used
 
-Power BI
-
 SQL
 
 Excel
@@ -36,4 +34,4 @@ To transform raw hospitality data into meaningful business insights and KPIs tha
 
 👨‍💻 Author
 
-Ayush Sharma
+Anuraag S Saxena
